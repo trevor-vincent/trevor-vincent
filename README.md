@@ -13,7 +13,7 @@
 - [Benchmark (unreleased benchmarking library)](https://benchmarks.pennylane.ai/) - python/CSS/JS/html
 
   
-#### Former academic codes
+#### Former academic codes I developed
 - [disco4est](https://github.com/trevor-vincent/disco4est) - C/MPI/p4est
 - [occlude](https://github.com/trevor-vincent/occlude) - C/OpenCL/linearized octrees
 - [axonexa](https://github.ccom/trevor-vincent/axonexa) - C++/CUDA
