@@ -2,7 +2,7 @@
 
 #### Codes/projects I am currently working on
 - [TaskMax - Task queuing system for LLMs](https://github.com/MindKingAI/taskmax) - python
-- [Awesome list High Performance Computing references](https://www.youtube.com/channel/UCCRdRbI93UGW0AZttVH3SbA/playlists) - markdown
+- [Awesome High Performance Computing references](https://www.youtube.com/channel/UCCRdRbI93UGW0AZttVH3SbA/playlists) - markdown
 
 #### Former professional codes I solely developed or lead development of
 - [Plaquette UnionFind Decoder](https://github.com/trevor-vincent/plaquette-unionfind) - C++/python/pybind
