@@ -4,7 +4,7 @@
 - [TaskMax - Task queuing system for LLMs](https://github.com/MindKingAI/taskmax) - python
 - [Awesome High Performance Computing references](https://github.com/trevor-vincent/awesome-high-performance-computing) - markdown
 
-#### Former professional codes I solely developed or lead development of
+#### Former professional codes I developed or lead development of
 - [Plaquette UnionFind Decoder](https://github.com/trevor-vincent/plaquette-unionfind) - C++/python/pybind
 - [Plaquette High Performance Graph Library](https://github.com/trevor-vincent/plaquette-graph) - C++/python/pybind
 - [Plaquette GPU Clifford simulator](https://github.com/trevor-vincent/plaquette-simulator) - C++/python/pybind/Kokkos
