@@ -15,9 +15,9 @@ I am a physicist that loves to code!
 - [Benchmark (unreleased benchmarking library)](https://benchmarks.pennylane.ai/) - python/CSS/JS/html
 
 #### Former professional codes I helped develop
-- [Pennylane Lightning](https://github.com/PennylaneAI/pennylane-lightning)
-- [TheWalrus](https://github.com/XanaduAI/thewalrus)
-- [FlamingPy](https://github.com/XanaduAI/flamingpy)
+- [Pennylane Lightning](https://github.com/PennylaneAI/pennylane-lightning) - python/C++/Kokkos/MPI/CUDA/pybind
+- [TheWalrus](https://github.com/XanaduAI/thewalrus) - python/C++
+- [FlamingPy](https://github.com/XanaduAI/flamingpy) - python/pybind/C++
 
 #### Former academic codes I developed
 - [disco4est](https://github.com/trevor-vincent/disco4est) - C/MPI/p4est
