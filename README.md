@@ -12,7 +12,7 @@ I am a physicist that loves to code!
 - Plaquette GPU Clifford simulator - C++/python/pybind/Kokkos
 - [Jet](https://github.com/XanaduAI/jet) - C++/python/pybind/Taskflow
 - [Pennylane Lightning Kokkos](https://github.com/PennyLaneAI/pennylane-lightning-kokkos) - C++/python/pybind/Kokkos
-- [Benchmark (unreleased benchmarking library)](https://benchmarks.pennylane.ai/) - python/CSS/JS/html
+- Benchmark (unreleased benchmarking library) - python/CSS/JS/html
 
 #### Former professional codes I helped develop
 - [Pennylane Lightning](https://github.com/PennylaneAI/pennylane-lightning) - python/C++/Kokkos/MPI/CUDA/pybind
