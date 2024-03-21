@@ -22,4 +22,4 @@ I am a physicist that loves to code!
 #### Former academic codes I developed
 - [disco4est](https://github.com/trevor-vincent/disco4est) - C/MPI/p4est
 - [occlude](https://github.com/trevor-vincent/occlude) - C/OpenCL/linearized octrees
-- [axonexa](https://github.ccom/trevor-vincent/axonexa) - C++/CUDA
+- [axonexa](https://github.com/trevor-vincent/axonexa) - C++/CUDA
