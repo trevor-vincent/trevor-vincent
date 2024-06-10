@@ -10,7 +10,7 @@ I am a physicist that loves to code! All projects below are open source or can b
 - Plaquette UnionFind Decoder - C++/python/pybind
 - Plaquette High Performance Graph Library - C++/python/pybind
 - Plaquette GPU Clifford simulator - C++/python/pybind/Kokkos
-- [Jet](https://github.com/XanaduAI/jet) - C++/python/pybind/Taskflow
+- [Jet Tensor Network Contraction Engine](https://github.com/XanaduAI/jet) - C++/python/pybind/Taskflow
 - [Pennylane Lightning Kokkos](https://github.com/PennyLaneAI/pennylane-lightning-kokkos) - C++/python/pybind/Kokkos
 - Benchmark (unreleased benchmarking library) - python/CSS/JS/html
 
