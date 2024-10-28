@@ -3,7 +3,7 @@
 I am a physicist that loves to code! All projects below are open source or can be shown upon request.
 
 #### Codes/projects I am currently working on
-- [TaskMax - Task queuing system for LLMs](https://github.com/MindKingAI/taskmax) - python
+- [Keydra - Menu of Keybinds](https://github.com/trevor-vincent/Keydra) - python
 - [Awesome High Performance Computing references](https://github.com/trevor-vincent/awesome-high-performance-computing) - markdown
 
 #### Former professional codes I developed or lead development of
