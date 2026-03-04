@@ -1,5 +1,3 @@
-### 👋 Hi there, I'm **Trevor**!
-
 Physicist / HPC Software Engineer. All projects below are open source or can be shown upon request.
 
 #### Codes/projects I am currently working on
